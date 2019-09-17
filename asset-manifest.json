@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/moster-dex/static/css/main.a2a9bc11.chunk.css",
+    "main.js": "/moster-dex/static/js/main.008b7756.chunk.js",
+    "main.js.map": "/moster-dex/static/js/main.008b7756.chunk.js.map",
+    "runtime~main.js": "/moster-dex/static/js/runtime~main.20946b09.js",
+    "runtime~main.js.map": "/moster-dex/static/js/runtime~main.20946b09.js.map",
+    "static/js/2.cf7af900.chunk.js": "/moster-dex/static/js/2.cf7af900.chunk.js",
+    "static/js/2.cf7af900.chunk.js.map": "/moster-dex/static/js/2.cf7af900.chunk.js.map",
+    "index.html": "/moster-dex/index.html",
+    "precache-manifest.82c87ed39fe2d6113afd73a4338c94b6.js": "/moster-dex/precache-manifest.82c87ed39fe2d6113afd73a4338c94b6.js",
+    "service-worker.js": "/moster-dex/service-worker.js",
+    "static/css/main.a2a9bc11.chunk.css.map": "/moster-dex/static/css/main.a2a9bc11.chunk.css.map"
+  }
+}
